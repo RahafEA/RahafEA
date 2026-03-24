@@ -2,9 +2,7 @@
 
 ### Data specialist 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RahafEA&label=Profile views&color=0e75b6&style=flat" alt="RahafEA" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahafEA" alt="RahafEA" /></a> </p>
 
 - 🌱 I'm currently learning **python , power BI , SQL AND Critical Thinking**
 
